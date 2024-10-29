@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>معلومات الاتصال</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background-color: #FF69B4; color: white; }
+        h1 { margin-top: 20px; }
+        p { font-size: 1.2em; }
+        a { display: block; margin: 10px auto; padding: 10px; color: white; background-color: #333; text-decoration: none; width: 80%; border-radius: 5px; max-width: 300px; }
+    </style>
+</head>
+<body>
+    <h1>Louai</h1>
+    <p>طرق التواصل معي:</p>
+    <a href="https://wa.me/0656726537">WhatsApp</a
+    <a href="https://www.facebook.com/profile.php?id=100079938697674&mibextid=ZbWKwL
+    <a href="https://instagram.com/jon_week39">Instagram</a>
+</body>
+</html>
